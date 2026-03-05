@@ -1,0 +1,29 @@
+PS C:\Users\j\Desktop\rag> & C:\Users\j\.rag_env\Scripts\python.exe c:/Users/j/Desktop/rag/hugging-face.py
+
+Retrieved documents:
+
+1. Distinguished Alumni Award, and is a member of the Institute of Medicine.
+Dr. Lurie continues to practice clinical medicine in the he alth care safety net in
+Washington, DC.
+--------------------------------------------------
+
+2. Lurie has a long history in the health services research field, primarily in the areas of
+access to and quality of care, managed care, mental health, prevention, public health
+infrastructure and preparedness and health disparities.
+--------------------------------------------------
+
+3. infrastructure and preparedness and health disparities.
+Dr. Lurie attended college and medical school at the University of Pennsylvania, and
+completed her residency and MSPH at UCLA, where she was also a Robert Wood
+--------------------------------------------------
+
+4. Advisor to the Commissioner at the Minnesota Department of Health; and in academia,
+as Professor in the University of Minnesota Schools of Medicine and Public Health.  Dr.
+Lurie has a long history in the health services research field, primarily in the areas of
+--------------------------------------------------
+
+
+LLM Answer:
+
+Nicole Lurie is a person who has received a Distinguished Alumni Award and is a member of the Institute of Medicine.
+She practiced clinical medicine in the health care safety net in Washington, DC.

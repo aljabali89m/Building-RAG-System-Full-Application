@@ -1,0 +1,40 @@
+(.rag_env) C:\Users\j\Desktop\rag>py open-ai.py
+
+Retrieved documents:
+
+1. Distinguished Alumni Award, and is a member of the Institute of Medicine.
+Dr. Lurie continues to practice clinical medicine in the he alth care safety net in
+Washington, DC.
+--------------------------------------------------
+
+2. Lurie has a long history in the health services research field, primarily in the areas of
+access to and quality of care, managed care, mental health, prevention, public health
+infrastructure and preparedness and health disparities.
+--------------------------------------------------
+
+3. infrastructure and preparedness and health disparities.
+Dr. Lurie attended college and medical school at the University of Pennsylvania, and
+completed her residency and MSPH at UCLA, where she was also a Robert Wood
+--------------------------------------------------
+
+4. Advisor to the Commissioner at the Minnesota Department of Health; and in academia,
+as Professor in the University of Minnesota Schools of Medicine and Public Health.  Dr.
+Lurie has a long history in the health services research field, primarily in the areas of
+--------------------------------------------------
+
+
+LLM Answer:
+
+Nicole Lurie is a physician and health services researcher known for her work in areas such as access to and quality of care,
+managed care, mental health, prevention, public health infrastructure and preparedness, and health disparities. 
+She has received several awards, including the John M. Eisenberg Award for Innovation in Patient Safety and Quality, 
+the Consumer's Checkbook's W. Hardy Hickman Award for Courage in Health Care Reform Leadership, 
+and the 2007 American Board of Emergency Medicine Outstanding Contribution to Emergency Medicine Award. 
+She is a member of the Institute of Medicine and continues to practice clinical medicine in the health care safety net in 
+Washington, DC.
+
+Educationally, she attended college and medical school at the University of Pennsylvania and completed her residency and Master
+of Science in Public Health (MSPH) at UCLA, where she was associated with the Robert Wood program. Professionally, she has 
+served as a Special Advisor to the Commissioner at the Minnesota Department of Health and as a Professor in the University 
+of Minnesota Schools of Medicine and Public Health. This information is based on the provided details about her career and 
+background.

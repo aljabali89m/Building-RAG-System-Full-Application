@@ -1,0 +1,21 @@
+# Environment
+.env
+.rag_env/
+venv/
+env/
+
+# Vector DB (regenerate with fill_db.py)
+chroma-db/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
